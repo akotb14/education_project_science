@@ -1,0 +1,1568 @@
+[
+    {
+        "_id": "6380eb380c36f57dcaada154",
+        "quiz": "637f56e30c36f57dcaad9d71",
+        "student": "637fb7620c36f57dcaad9efb",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "638120760c36f57dcaada1da",
+        "quiz": "637f5be90c36f57dcaad9dc0",
+        "student": "637fb7620c36f57dcaad9efb",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "6383ad1a0c36f57dcaada613",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "6385dbce0c36f57dcaada978",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "637fb7620c36f57dcaad9efb",
+        "isCheck": "1",
+        "totalDegree": "13",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "63864fc00c36f57dcaadab31",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "9",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "638653500c36f57dcaadabd2",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "6386513f0c36f57dcaadab47",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "6386672a0c36f57dcaadad04",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "6386665f0c36f57dcaadacc8",
+        "isCheck": "1",
+        "totalDegree": "9",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "638668240c36f57dcaadad2d",
+        "quiz": "637f56e30c36f57dcaad9d71",
+        "student": "6385282d0c36f57dcaada765",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "6386693d0c36f57dcaadad9d",
+        "quiz": "637f5be90c36f57dcaad9dc0",
+        "student": "6385282d0c36f57dcaada765",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "6387c76ad4650c0adbff9868",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "6385282d0c36f57dcaada765",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "63889cb6d4650c0adbff99df",
+        "quiz": "63834a230c36f57dcaada338",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "8",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "638b28d8556751f96f1b03a2",
+        "quiz": "637f56e30c36f57dcaad9d71",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "638b2e1c01048c3cd0c584e6",
+        "quiz": "638b2aad556751f96f1b04a8",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "638b40acd0d9a9abddf86136",
+        "quiz": "638b403ad0d9a9abddf86109",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "638b415ed0d9a9abddf8615e",
+        "quiz": "638b4140d0d9a9abddf8614b",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "638b44e8d0d9a9abddf8627d",
+        "quiz": "638b436fd0d9a9abddf861b3",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "638b4587d0d9a9abddf862ed",
+        "quiz": "638b426bd0d9a9abddf86185",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "638b45a9d0d9a9abddf86308",
+        "quiz": "638b457ed0d9a9abddf862c7",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63933415d0d9a9abddf8723f",
+        "quiz": "639333f9d0d9a9abddf87209",
+        "student": "638c53b3d0d9a9abddf865ad",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "exam",
+        "__v": 0
+    },
+    {
+        "_id": "639334dad0d9a9abddf87441",
+        "quiz": "639334c6d0d9a9abddf87415",
+        "student": "63933128d0d9a9abddf86f47",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639336d2d0d9a9abddf8757a",
+        "quiz": "63933642d0d9a9abddf874e7",
+        "student": "63933128d0d9a9abddf86f47",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63933728d0d9a9abddf875f7",
+        "quiz": "6393370ed0d9a9abddf875c7",
+        "student": "63933128d0d9a9abddf86f47",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639337b8d0d9a9abddf876b3",
+        "quiz": "639337a0d0d9a9abddf87658",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63933c25d0d9a9abddf87966",
+        "quiz": "63933b0cd0d9a9abddf877dd",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63933c32d0d9a9abddf87988",
+        "quiz": "63933ad4d0d9a9abddf877a2",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63933d1cd0d9a9abddf87a34",
+        "quiz": "63933d07d0d9a9abddf87a0e",
+        "student": "637cb8a40c36f57dcaad9ca2",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "6397776fd0d9a9abddf88b1d",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6387c8ced4650c0adbff98ce",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "6397782ed0d9a9abddf88be9",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6387c8ced4650c0adbff98ce",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "6398b468d0d9a9abddf89af2",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "6398b4f4d0d9a9abddf89b68",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "6398b7d5d0d9a9abddf89cba",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "6398b9bdd0d9a9abddf89e3f",
+        "quiz": "63988653d0d9a9abddf89219",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "6398bb21d0d9a9abddf89f5b",
+        "quiz": "6398ac61d0d9a9abddf89754",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "6398fb34d0d9a9abddf8abd9",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "63988104d0d9a9abddf88ff3",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f63b6d0d9a9abddf8b866",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f64b6d0d9a9abddf8b976",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f69a8d0d9a9abddf8c08b",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f6a99d0d9a9abddf8c19e",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f6dfad0d9a9abddf8c318",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f6e70d0d9a9abddf8c431",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "8",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f6f71d0d9a9abddf8c549",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f6fa6d0d9a9abddf8c668",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f704ed0d9a9abddf8c85d",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f70fdd0d9a9abddf8c988",
+        "quiz": "63988653d0d9a9abddf89219",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "8",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f7369d0d9a9abddf8caa0",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f7431d0d9a9abddf8cbd2",
+        "quiz": "6398ac61d0d9a9abddf89754",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f7595d0d9a9abddf8ce46",
+        "quiz": "6398c6f6d0d9a9abddf8a208",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f76c0d0d9a9abddf8cf89",
+        "quiz": "6398dd60d0d9a9abddf8a5bb",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "639f7897d0d9a9abddf8d096",
+        "quiz": "6398c893d0d9a9abddf8a2e4",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "639f7a73d0d9a9abddf8d1db",
+        "quiz": "6398de8dd0d9a9abddf8a6dd",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a1501ed0d9a9abddf8d923",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "63972069d0d9a9abddf88785",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a152b8d0d9a9abddf8d9a8",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "63972069d0d9a9abddf88785",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a15486d0d9a9abddf8dab6",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "63972069d0d9a9abddf88785",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a1554fd0d9a9abddf8db64",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "63972069d0d9a9abddf88785",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a18f33d0d9a9abddf8de30",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "63944497d0d9a9abddf87f84",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a18ffcd0d9a9abddf8df3f",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "63944497d0d9a9abddf87f84",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a1917dd0d9a9abddf8e143",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "63944497d0d9a9abddf87f84",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a1920bd0d9a9abddf8e4da",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a1920fd0d9a9abddf8e520",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "63944497d0d9a9abddf87f84",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a1934bd0d9a9abddf8e663",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a194b8d0d9a9abddf8e957",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a1952bd0d9a9abddf8e9cd",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a1977fd0d9a9abddf8ec17",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a198f4d0d9a9abddf8ed19",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a19a54d0d9a9abddf8ee1e",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a19beed0d9a9abddf8ef20",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "6387ca42d4650c0adbff98e0",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a19f9bd0d9a9abddf8f073",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "63a19d51d0d9a9abddf8f023",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2066fd0d9a9abddf8f58a",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a206c6d0d9a9abddf8f6ad",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2083dd0d9a9abddf8f996",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a208c2d0d9a9abddf8fac3",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a20ac2d0d9a9abddf8fdf1",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a20b24d0d9a9abddf8ff27",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a20e8ed0d9a9abddf90177",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a20faad0d9a9abddf902b6",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a21774d0d9a9abddf90549",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a21817d0d9a9abddf90694",
+        "quiz": "63988653d0d9a9abddf89219",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a21d71d0d9a9abddf9088e",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a21e05d0d9a9abddf909e0",
+        "quiz": "6398ac61d0d9a9abddf89754",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2212ad0d9a9abddf90ce5",
+        "quiz": "6398c6f6d0d9a9abddf8a208",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a22144d0d9a9abddf90de1",
+        "quiz": "6398dd60d0d9a9abddf8a5bb",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2256ad0d9a9abddf910c7",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6387c9b4d4650c0adbff98d7",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a226abd0d9a9abddf91202",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6387c9b4d4650c0adbff98d7",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a227cfd0d9a9abddf912cd",
+        "quiz": "6398c893d0d9a9abddf8a2e4",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a228aad0d9a9abddf914ec",
+        "quiz": "6398de8dd0d9a9abddf8a6dd",
+        "student": "6382571f0c36f57dcaada2f9",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a22ebed0d9a9abddf91da3",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a22f94d0d9a9abddf91ecc",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a23126d0d9a9abddf91f5e",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "639864f1d0d9a9abddf88d1e",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a231cfd0d9a9abddf920db",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a23295d0d9a9abddf92304",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "639864f1d0d9a9abddf88d1e",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2329cd0d9a9abddf92350",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a23498d0d9a9abddf926af",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a234fcd0d9a9abddf927c2",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "639864f1d0d9a9abddf88d1e",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2353cd0d9a9abddf928fb",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a23625d0d9a9abddf9299b",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "639864f1d0d9a9abddf88d1e",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a23750d0d9a9abddf92de6",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a23829d0d9a9abddf92f25",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a23a17d0d9a9abddf93336",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a23b0bd0d9a9abddf93481",
+        "quiz": "63988653d0d9a9abddf89219",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2a853d0d9a9abddf93766",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2a949d0d9a9abddf938b8",
+        "quiz": "6398ac61d0d9a9abddf89754",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2aa8ad0d9a9abddf93b84",
+        "quiz": "6398c6f6d0d9a9abddf8a208",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2ab7bd0d9a9abddf93ce0",
+        "quiz": "6398dd60d0d9a9abddf8a5bb",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2acf5d0d9a9abddf93f25",
+        "quiz": "6398c893d0d9a9abddf8a2e4",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2ad78d0d9a9abddf9408a",
+        "quiz": "6398de8dd0d9a9abddf8a6dd",
+        "student": "638593ce0c36f57dcaada82b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a2cd5ad0d9a9abddf943d0",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "639864f1d0d9a9abddf88d1e",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2cfc3d0d9a9abddf94424",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "639864f1d0d9a9abddf88d1e",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a2f873d0d9a9abddf945b1",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "63988104d0d9a9abddf88ff3",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a36b18d0d9a9abddf952eb",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a36b9bd0d9a9abddf95423",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a36d2ad0d9a9abddf9570f",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a36e26d0d9a9abddf95853",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a5c872d0d9a9abddf95bb0",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a5c99dd0d9a9abddf95e2e",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a5cb1fd0d9a9abddf95f89",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a5cbd4d0d9a9abddf960d4",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a5cdfdd0d9a9abddf96294",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a5cf08d0d9a9abddf963de",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a5d146d0d9a9abddf96565",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a5d337d0d9a9abddf966b5",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "639f594cd0d9a9abddf8b76b",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a6f3d4d0d9a9abddf96962",
+        "quiz": "6398c6f6d0d9a9abddf8a208",
+        "student": "6386665f0c36f57dcaadacc8",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a77fced0d9a9abddf96d9d",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6385d87f0c36f57dcaada862",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a7806fd0d9a9abddf96f57",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6385d87f0c36f57dcaada862",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63a848bed0d9a9abddf97378",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a848fdd0d9a9abddf9740b",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a849aad0d9a9abddf9760e",
+        "quiz": "6398c6f6d0d9a9abddf8a208",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a849f9d0d9a9abddf976a4",
+        "quiz": "6398c893d0d9a9abddf8a2e4",
+        "student": "639757e4d0d9a9abddf88942",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a9f0bed0d9a9abddf97e13",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63a9f5dbd0d9a9abddf97f81",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aa0076d0d9a9abddf982e7",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aa3277d0d9a9abddf98659",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "6386665f0c36f57dcaadacc8",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aa333cd0d9a9abddf987f6",
+        "quiz": "63988653d0d9a9abddf89219",
+        "student": "6386665f0c36f57dcaadacc8",
+        "isCheck": "1",
+        "totalDegree": "8",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aac190d0d9a9abddf98a5b",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac1d8d0d9a9abddf98b95",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aac34ed0d9a9abddf98cd7",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac39cd0d9a9abddf98e1b",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aac4aed0d9a9abddf9901f",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac509d0d9a9abddf99169",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aac564d0d9a9abddf99201",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "638e5d26d0d9a9abddf86654",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac630d0d9a9abddf99456",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac6c7d0d9a9abddf99512",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "638e5d26d0d9a9abddf86654",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac701d0d9a9abddf996d8",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aac716d0d9a9abddf99725",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "6387ce49d4650c0adbff990e",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aac760d0d9a9abddf998d8",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "638e5d26d0d9a9abddf86654",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aac835d0d9a9abddf99b0a",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "638e5d26d0d9a9abddf86654",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63aadb23d0d9a9abddf99e26",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "638e5d26d0d9a9abddf86654",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63aadb92d0d9a9abddf9a030",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "638e5d26d0d9a9abddf86654",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63ac301dd0d9a9abddf9a6a8",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63ac307bd0d9a9abddf9a7e7",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63ac30e6d0d9a9abddf9a917",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "6384fbe90c36f57dcaada73d",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63ac868ad0d9a9abddf9ac4e",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63ac8755d0d9a9abddf9ad9e",
+        "quiz": "63948ec5d0d9a9abddf8807e",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "6",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63ac8a1bd0d9a9abddf9aff5",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63ac8b3bd0d9a9abddf9b145",
+        "quiz": "63986ec7d0d9a9abddf88e46",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63ac8cf9d0d9a9abddf9b371",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63ac8d94d0d9a9abddf9b4ca",
+        "quiz": "6398ac61d0d9a9abddf89754",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63b224e6d0d9a9abddf9c047",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "63a4b2c0d0d9a9abddf95a98",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b2253ad0d9a9abddf9c19a",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "63a4b2c0d0d9a9abddf95a98",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63b232eed0d9a9abddf9c3a3",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "63a4b2c0d0d9a9abddf95a98",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b57d3bd0d9a9abddf9cd5f",
+        "quiz": "63934022d0d9a9abddf87bac",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b58896d0d9a9abddf9ceab",
+        "quiz": "639341cdd0d9a9abddf87c2e",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63b589e4d0d9a9abddf9cfe7",
+        "quiz": "63933ee4d0d9a9abddf87a9c",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b5a229d0d9a9abddf9d19c",
+        "quiz": "63932eafd0d9a9abddf86dfc",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "7",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63b5a322d0d9a9abddf9d2d3",
+        "quiz": "63948e25d0d9a9abddf88008",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b5ac55d0d9a9abddf9d374",
+        "quiz": "63986967d0d9a9abddf88d60",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "2",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b69a0dd0d9a9abddf9d5dc",
+        "quiz": "63988401d0d9a9abddf89070",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b6a519d0d9a9abddf9d73b",
+        "quiz": "6398c6f6d0d9a9abddf8a208",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b6a5ded0d9a9abddf9d8b0",
+        "quiz": "6398dd60d0d9a9abddf8a5bb",
+        "student": "638895cbd4650c0adbff9950",
+        "isCheck": "1",
+        "totalDegree": null,
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63b6ae91d0d9a9abddf9d939",
+        "quiz": "6398aa2ad0d9a9abddf8963b",
+        "student": "63963abbd0d9a9abddf88668",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b6c92ad0d9a9abddf9da54",
+        "quiz": "63a20976d0d9a9abddf8fb34",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "3",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b6ca4fd0d9a9abddf9dbe8",
+        "quiz": "63a20302d0d9a9abddf8f2c1",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "5",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63b6cb9dd0d9a9abddf9dd31",
+        "quiz": "63a35689d0d9a9abddf948db",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "1",
+        "type": "quiz",
+        "__v": 0
+    },
+    {
+        "_id": "63b6cc9dd0d9a9abddf9dec9",
+        "quiz": "63a35a34d0d9a9abddf94a06",
+        "student": "63825fe00c36f57dcaada307",
+        "isCheck": "1",
+        "totalDegree": "0",
+        "type": "homework",
+        "__v": 0
+    },
+    {
+        "_id": "63c738f7d14b32d826f70238",
+        "quiz": "6398c893d0d9a9abddf8a2e4",
+        "student": "63a4b2c0d0d9a9abddf95a98",
+        "isCheck": "1",
+        "totalDegree": "4",
+        "type": "quiz",
+        "__v": 0
+    }
+]

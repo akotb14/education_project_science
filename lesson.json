@@ -1,0 +1,140 @@
+[
+    {
+        "_id": "637bb10556f77e2ec89086f9",
+        "units": [],
+        "grade": "2nd",
+        "educetionlevel": "biology",
+        "__v": 0
+    },
+    {
+        "_id": "637cb8560c36f57dcaad9c98",
+        "units": [
+            {
+                "month": "الشهر الاول",
+                "unit": "الكربوهيدرات",
+                "lesson": "1qj-rauCGIjGiwGHeA_jGFYxOCZaHjrp-",
+                "pdf": "",
+                "_id": "639090ead0d9a9abddf86b5a",
+                "quizId": "63934022d0d9a9abddf87bac",
+                "homeId": "639341cdd0d9a9abddf87c2e"
+            },
+            {
+                "month": "الشهر الاول",
+                "unit": "اللبيدات",
+                "lesson": "1Nfsm8Um56Gv5aHYltMehTM8RMzrokwn2",
+                "pdf": "",
+                "_id": "6391f24cd0d9a9abddf86d79",
+                "homeId": "63932eafd0d9a9abddf86dfc",
+                "quizId": "63933ee4d0d9a9abddf87a9c"
+            },
+            {
+                "month": "الشهر الثاني",
+                "unit": "البروتينات",
+                "lesson": "1j9_yhBt7hqyVeq2W52jZrnREiURB-yum",
+                "pdf": "",
+                "_id": "6391f42ad0d9a9abddf86daa",
+                "quizId": "63948e25d0d9a9abddf88008",
+                "homeId": "63948ec5d0d9a9abddf8807e"
+            },
+            {
+                "month": "الشهر الثاني",
+                "unit": "الاحماض النوويه",
+                "lesson": "1XnQ2fZA1Y-zDFHDlqBTsJm8vFiImi02V",
+                "pdf": "",
+                "_id": "6395f623d0d9a9abddf88587",
+                "quizId": "63986967d0d9a9abddf88d60",
+                "homeId": "63986ec7d0d9a9abddf88e46"
+            },
+            {
+                "month": "الشهر الثالث",
+                "unit": "الانزيمات",
+                "lesson": "13k0rYQQ4SIDjKqWrFCD3ufVW-QKc2tJK",
+                "pdf": "",
+                "_id": "6396f544d0d9a9abddf8867e",
+                "quizId": "63988401d0d9a9abddf89070",
+                "homeId": "63988653d0d9a9abddf89219"
+            },
+            {
+                "month": "الشهر الثالث",
+                "unit": "النظريه الخلويه وتطوير الميكروسكوبات",
+                "lesson": "1r0eNHLukc4iIhPfnTT6qhaFUe4Y-MfTA",
+                "pdf": "",
+                "_id": "6396f5ccd0d9a9abddf8868f",
+                "quizId": "6398aa2ad0d9a9abddf8963b",
+                "homeId": "6398ac61d0d9a9abddf89754"
+            },
+            {
+                "month": "الشهر الرابع",
+                "unit": "تركيب الخليه 1",
+                "lesson": "1Htp3M24LLWrw8jlOpFihvLevozBtX3NO",
+                "pdf": "",
+                "_id": "6396fc3bd0d9a9abddf88719",
+                "quizId": "6398c6f6d0d9a9abddf8a208",
+                "homeId": "6398dd60d0d9a9abddf8a5bb"
+            },
+            {
+                "month": "الشهر الرابع",
+                "unit": "تركيب الخليه 2",
+                "lesson": "1t1HgpOE672M56Ea8to1keNNDe5JPlr2w",
+                "pdf": "",
+                "_id": "6396fc65d0d9a9abddf8872e",
+                "quizId": "6398c893d0d9a9abddf8a2e4",
+                "homeId": "6398de8dd0d9a9abddf8a6dd"
+            },
+            {
+                "month": "الشهر الخامس",
+                "unit": "تركيب الخليه 3",
+                "lesson": "1NADVu5oOgFPWCRHWVU9pi1sN99uSwBcC",
+                "pdf": "",
+                "_id": "639f4087d0d9a9abddf8b646",
+                "homeId": "63a20302d0d9a9abddf8f2c1",
+                "quizId": "63a20976d0d9a9abddf8fb34"
+            },
+            {
+                "month": "الشهر الخامس",
+                "unit": "تركيب الخليه 4",
+                "lesson": "1qqtGs6z88Y5qxJUxlbSfXzwwp8ZDyGo7",
+                "pdf": "",
+                "_id": "63a0aed9d0d9a9abddf8d383",
+                "quizId": "63a35689d0d9a9abddf948db",
+                "homeId": "63a35a34d0d9a9abddf94a06"
+            },
+            {
+                "month": "الشهر السادس",
+                "unit": "الانسجه النباتيه",
+                "lesson": "183wvIcAjBKnr7vixvSgk6lGQkcyDA0fj",
+                "pdf": "",
+                "_id": "63aeb2a8d0d9a9abddf9b6f4"
+            },
+            {
+                "month": "الشهر السادس",
+                "unit": "الانسجه الحيوانيه",
+                "lesson": "19PHJOZiV81bogk2s_R6AsPAGMX90Sue0",
+                "pdf": "",
+                "_id": "63aeb2ddd0d9a9abddf9b711"
+            },
+            {
+                "month": "الشهر السادس",
+                "unit": "الانسجه الحيوانيه 2",
+                "lesson": "1wefN8dWBVElJckKSh4ruWu9OPttLebYB",
+                "pdf": "",
+                "_id": "63aeb304d0d9a9abddf9b72e"
+            }
+        ],
+        "grade": "1st",
+        "educetionlevel": "biology",
+        "__v": 0
+    },
+    {
+        "_id": "6389db2f49a803fb9272280f",
+        "units": [],
+        "__v": 0
+    },
+    {
+        "_id": "638c5335d0d9a9abddf86597",
+        "units": [],
+        "grade": "3rd",
+        "educetionlevel": "geology",
+        "__v": 0
+    }
+]
